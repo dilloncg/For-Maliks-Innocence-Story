@@ -20,3 +20,17 @@ p1{
   color: white;
   text-align: left;
 }
+
+a{
+  font: 100px helvetica;
+  color: white;
+  text-align: left;
+  text-decoration-line: none;
+}
+
+<!--
+a:hover
+{
+  color: red;
+}
+//-->
