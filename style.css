@@ -1,5 +1,5 @@
 body{
-  background: black;
+  background: rgba(20, 30, 40);
   margin: 0px;
 }
 
@@ -15,22 +15,39 @@ h2{
   text-align: left;
 }
 
-p1{
-  font: 40px helvetica;
+h3{
+  font: 60px helvetica;
+  font-weight: bold;
   color: white;
   text-align: left;
 }
 
+p{
+  font: 40px helvetica;
+  color: white;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
 a{
+  font: 40px helvetica;
+  color: white;
+  text-decoration-line: none;
+  text-align: left;
+}
+
+.home{
   font: 100px helvetica;
   color: white;
   text-align: left;
   text-decoration-line: none;
+  margin-top: 300PX;
+  padding: 30px;
 }
 
 <!--
 a:hover
 {
-  color: red;
+  color: rgba(200, 120, 140);
 }
 //-->
